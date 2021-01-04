@@ -1,4 +1,4 @@
-### Hello world, I'm Rafael - aka RAFALAZAR
+### Hello world, I'm Jordan Rafael - aka RAFALAZAR
 
 ## I'm a Software Engineer, Developer and Padawan of the Force!
 - I'm currently working on a [Consulting Firm][work]!
