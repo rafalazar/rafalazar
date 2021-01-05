@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Developer and Padawan of the Force!
 - I'm currently working on a [Consulting Firm][work]!
 - I'm learning everything!
-- I'm looking to collaborate with other projeects.
+- I'm looking to collaborate with other projects (frontend and mobile).
 - 2021 Goals: Start my own startup!
 - Fun fact: I love to take photos and make videos for Youtube!
 
