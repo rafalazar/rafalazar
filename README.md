@@ -37,3 +37,7 @@
 [instagram]: https://www.instagram.com/rafalazar/
 [linkedin]: https://www.linkedin.com/in/rafalazar1005/
 [work]: https://www.everis.com/global/en
+
+---
+
+<img align="left" alt="Rafalazar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafalazar&show_icons=true&hide_border=true" />
