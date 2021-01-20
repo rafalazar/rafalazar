@@ -7,6 +7,13 @@
 - 2021 Goals: Start my own startup!
 - Fun fact: I love to take photos and make videos for Youtube!
 
+---
+
+<img align="left" alt="Rafalazar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafalazar&show_icons=true&hide_border=true" />
+
+<br />
+
+
 ### Connect with me:
 
 [<img align="left" alt="rafalazar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,12 +21,6 @@
 [<img align="left" alt="rafalazar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-
----
-
-<img align="left" alt="Rafalazar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafalazar&show_icons=true&hide_border=true" />
-
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
