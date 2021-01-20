@@ -13,6 +13,9 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalazar)](https://github.com/rafalazar/github-readme-stats)
+
+---
 
 ### Connect with me:
 
