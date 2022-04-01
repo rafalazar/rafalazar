@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Rafael Salazar</h1>
 <h3 align="center">A passionate fullstack developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalazar" alt="rafalazar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalazar&theme=onedark" alt="rafalazar" /></a> </p>
 
 - 🔭 I’m currently working on [UEAT](https://ueat.io/en/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/rafalazar1005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rafalazar1005/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafalazar1005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rafalazar1005/" height="30" width="40" /></a>
 <a href="https://instagram.com/rafalazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafalazar" height="30" width="40" /></a>
 </p>
 
