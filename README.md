@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a freelancer.
 
-- 🌱 Looking collaborate with projects (frontend, backend or both).
+- 🌱 Looking to collaborate with projects (frontend, backend or both).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
