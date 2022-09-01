@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Rafael Salazar</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalazar&theme=onedark" alt="rafalazar" /></a> </p>
 
-- 🔭 I’m currently working on [UEAT](https://ueat.io/en/)
+- 🔭 I’m currently working as a freelancer.
 
-- 🌱 I’m currently learning **everything I can!**
+- 🌱 Looking collaborate with projects (frontend, backend or both).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
